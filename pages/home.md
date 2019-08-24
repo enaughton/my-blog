@@ -14,3 +14,7 @@ This is the place I will reflect on my Developer Journey, and a place to share t
 
 ### Podcasts
 
+### Music
+
+### Tech
+
