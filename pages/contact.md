@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Any Questions/Comments? 
 tags:
   - nav
 navtitle: Contact
@@ -10,7 +10,7 @@ permalink: /contact/index.html
 ---
 
 
-## Any Questions/Comments? 
+
 
 Get in Touch!
 
