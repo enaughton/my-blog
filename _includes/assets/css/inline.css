@@ -1,5 +1,5 @@
 :root {
-	--turkey: red;
+	--turkey: #FFF0EB;
 	--white: white;
 	--blue: blue;
 }
@@ -19,7 +19,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: red
+	background-color: var(--turkey);
 }
 
 main {
