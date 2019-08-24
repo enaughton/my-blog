@@ -9,4 +9,8 @@ tags:
 ---
 # Welcome
 
-I am Emmett Naughton
+This is the place I will reflect on my Developer Journey, and a place to share things I enjoy. 
+
+
+### Podcasts
+
