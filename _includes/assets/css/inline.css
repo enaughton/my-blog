@@ -1,7 +1,7 @@
 :root {
-	--slate: #33658A;
+	--slate: slateblue;
 	--white: white;
-	--blue: blue;
+	--blue: black;
 }
 
 *, *:before, *:after {
@@ -34,7 +34,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--white);
+	color: var(--blue);
 }
 
 a[href]:not(:hover) {
@@ -132,7 +132,7 @@ a[rel="tag"]:visited {
 	height: 2em;
   border: 1px solid var(--white);
 	background-color: var(--white);
-	color: var(--white);
+	color: var(--blue);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
