@@ -1,7 +1,7 @@
 ---
 title: The Journey (So Far)
 summary: The Adventure of becoming a JavaScript Developer.
-date: 2015-01-01
+date: 2019-03-20
 tags:
   - javaScript
   - tech
