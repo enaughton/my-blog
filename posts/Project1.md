@@ -1,3 +1,15 @@
+---
+title: Project 1 The Random Quote Machine
+summary: Selecting a random quote from an array, and displaying it on the screena
+date: 2015-01-01
+tags:
+  - javaScript
+  - tech
+  - developer
+  - politics
+  - sport
+---
+
 The goal of this project to display a Random Quote selected from an array.
 
 In this post with you will learn about the Math.floor, Math.random, and 
