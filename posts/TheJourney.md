@@ -6,8 +6,7 @@ tags:
   - javaScript
   - tech
   - developer
-  - politics
-  - sport
+
 ---
 
 My adventure into coding started two years ago. I was working as a janitor at my local hospital, where I was able to listen to podcasts while I worked. I came across The Code Newbie Podcast. This podcast told the stories of many people like myself who were ready for a change.
