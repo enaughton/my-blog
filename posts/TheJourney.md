@@ -1,6 +1,6 @@
 ---
 title: The Journey (So Far)
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: The Adventure of becoming a JavaScript Developer.
 date: 2015-01-01
 tags:
   - javaScript
