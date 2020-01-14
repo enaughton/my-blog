@@ -1,7 +1,8 @@
 :root {
-	--slate: slateblue;
+	--backGround: slateblue;
 	--white: white;
-	--blue: black;
+	--black: black;
+	--text: #005E7C;
 }
 
 *, *:before, *:after {
@@ -19,7 +20,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--slate);
+	background-color: var(--white);
 }
 
 main {
