@@ -1,7 +1,7 @@
 ---
 title: The Joy is in the Journey
 summary: Update on my Journey to becoming a Developer.
-date: 2020-01-20
+date: 2020-01-17
 tags:
   - javaScript
   - tech
