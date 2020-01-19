@@ -8,8 +8,6 @@ tags:
   - nav
 ---
 
+## I'm Emmett Naughton
 
-## Full Stack JavaScript Developer.
-
-I am a Full Stack JavaScript Developer living in Upstate New York. I am looking for a Developer Job, or freelance clients. Currently learning React, SQL, and other web dev things. 
-
+I am a Full Stack JavaScript Developer living in Upstate New York. Currently, helping shape the future of how Creatives make money.
