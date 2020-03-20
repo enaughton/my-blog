@@ -1,10 +1,10 @@
 ---
 title: Tech Degree Marathon
-summary: The Adventure of becoming a JavaScript Developer.
+summary: Completed the Tech Degree
 date: 2020-03-20
 tags:
   - javaScript
-  - tech
+  - tech degree
   - developer
 ---
 
