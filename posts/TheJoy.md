@@ -11,6 +11,8 @@ tags:
   - hustle
 ---
 
+Edited: 05-02-2020
+
 This journey includes, working full time (40+ Hours per Week) at my local hospital, being the sole provider for my family, the birth of my second child, emergency room visits, surgeries, hospital stays, trips across the lake to Burlington for doctors appointments Burn out and self doubt, feeling like I will never make it to the "Finish Line". Coding happened during my limited free time, either very early mornings, or late nights. I have a blog post sharing the first part of my Journey: [Read it Here](<https://emmettnaughton.com/posts/the-journey-(so-far)/>)
 
 All the things listed above make this journey seem impossible, how can a Father, the sole provider for his family find time to learn to code?! A Daily commitment to coding. There were days where I would just edit a few lines of CSS, or getting some JavaScript working or working on a NavBar. Doesn't seem like a lot but I got to where I am today, by dedicating a small amount of time to code over the last 2.5 years. Everyday, put a little bit of work on getting better. Its a reminder to always try and be 1% better than you were the day before, that goes for anything in life.
@@ -36,7 +38,7 @@ Nobody said this journey would be easy or direct. To take a page from Chase Jarv
 While I am finishing my last tech degree project, I had the joy of meeting with the Co-Founder of Kitkaton, [Levi Martinez](http://twitter.com/mrcasualhipster). We met through twitter, Kitkaton is a tech-enabled commerce platform for creatives to monetize their audience. Levi drove 3.5 hours to meet me in a Starbucks in my town, and we chatted about the platform and what my Tour of Duty would look like for Kitkaton.
 
 As of Feburary 2020, I am joining the mission of Kitkaton as Junior Software Engineer.
-
+(unfortunently due to Corona Virus and unforeseen circumstances this had be put on hold.)
 This opportunity has the potential to fully change my families life. I will be able to gain valuable experience in a growing tech company, while helping creatives make money. I am looking forward to be able to better provide for my family, and create generational wealth for my kids.
 
 ### 5 Takeaways from Learning to Code
