@@ -8,7 +8,9 @@ tags:
   - nav
 ---
 
-## I am Emmett. A Motivated Developer, and Builder. A CoderDad, and Creative. 
+# Welcome to my Digital Garden
 
-I am a Full Stack JavaScript Developer living in Upstate New York.
+## I am Emmett.
+
+I am a Full Stack JavaScript Developer living in Upstate New York. I am a Motivated Developer, and Builder. A CoderDad, and Creative.
 I have been building and creating online for the last three years, while working full time at my local hospital and raising my family. Its been a wild journey.
