@@ -8,8 +8,6 @@ tags:
   - nav
 ---
 
-# Welcome to my Digital Garden
-
 ## I am Emmett.
 
 I am a Full Stack JavaScript Developer living in Upstate New York. I am a Motivated Developer, and Builder. A CoderDad, and Creative.
