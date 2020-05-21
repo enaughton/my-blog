@@ -7,12 +7,14 @@
 
 		<header>
 			<em>
+			<img src="/_includes/assets/images/Logo.png">
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
-
+		
 		<main>
+		
 			{{ layoutContent | safe }}
 			
 		</main>
