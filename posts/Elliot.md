@@ -6,8 +6,6 @@ tags:
   - commerce
 ---
 
-# Build with Elliot
-
 I first heard about Elliot from the Co-Founder Sergio back in November of 2019!
 We hopped on a call during my lunch break, and chatted about the platform and the vision.
 There was an Emergency Care for Choking Sign behind me during the call, and that became a motto for Sergio.
