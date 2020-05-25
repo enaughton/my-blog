@@ -1,15 +1,16 @@
 ---
-title: Elliot? What's that?!
-summary: Elliot an ecommerce platform
+title: Elliot?
+summary: Elliot.store an ecommerce platform
 date: 2020-05-25
 tags:
   - commerce
-  - product
 ---
 
-I first heard about Elliot from the Co-Founder Sergio back in November of 2019!
-We hopped on a call during my lunch break, and chatted about the platform and the vision.
-There was an Ermergency Care for Choking Sign behind me during the call, and that became a motto for Sergio.
+# Build with Elliot
+
+    I first heard about Elliot from the Co-Founder Sergio back in November of 2019!
+    We hopped on a call during my lunch break, and chatted about the platform and the vision.
+    There was an Emergency Care for Choking Sign behind me during the call, and that became a motto for Sergio.
 
 ## 6 Moonths Later!
 
@@ -27,7 +28,7 @@ One of the coolest things the team has cooked up is the virtual mall. It was bui
 
 ### Quick Review
 
-Once you are logged in, you are brought to your own personal dashboard which has a sales graph, and some options to choose from on the left. It feels fresh, and easy to navigate.
+Once you are logged in, you are brought to your own personal dashboard which has a sales graph, and some options to choose from on the left. It feels fresh, and easy to navigate options.
 The coolest thing is this branded video. A fun way to annouce an launch day.
 
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/417438624" width="640" height="360" frameborder="0" allowfullscreen></iframe>
