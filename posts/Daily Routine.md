@@ -2,6 +2,7 @@
 title: daily routine and getting into web dev
 summary: Early Routine
 date: 2018-05-22
+author: Emmett Naughton
 tags:
   - Productivity
   - Web Development
