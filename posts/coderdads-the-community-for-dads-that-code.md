@@ -21,6 +21,4 @@ The amount of support in this group is great. Seen things from people jumping in
 
 Join [\#CoderDads](https://join.slack.com/t/coder-dads/shared_invite/zt-cbxflmxx-yc_8Z4BDtx0BJd2ZfPvM5A)
 
-``
-
 <!--EndFragment-->
