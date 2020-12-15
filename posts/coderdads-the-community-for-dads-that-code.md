@@ -17,4 +17,10 @@ If Covid has shown me anything, its this group of dads are Strong, and supportiv
 
 The amount of support in this group is great. Seen things from people jumping in to fix errors/bugs. The more Senior Coders have been giving solid career advice that many newer dads that are job hunting don’t know about. Hiring in Tech is Broken, so if you get a check list and game plan of how hiring is a major leg up.
 
+
+
+Join [\#CoderDads](https://join.slack.com/t/coder-dads/shared_invite/zt-cbxflmxx-yc_8Z4BDtx0BJd2ZfPvM5A)
+
+``
+
 <!--EndFragment-->
