@@ -1,5 +1,5 @@
 ---
-title: "#CoderDads: The Community for Dads that Code."
+title: "#CoderDads: The Community for Dads that Code"
 date: 2020-12-15T02:14:57.463Z
 summary: "Community is important "
 tags:
