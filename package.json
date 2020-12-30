@@ -14,7 +14,7 @@
   "author": {
     "name": "Emmett Naughton",
     "email": "enaughton5+dev@gmail.com",
-    "url": "EmmettNaughton.design"
+    "url": "https://EmmettNaughton.com"
   },
   "license": "MIT",
   "bugs": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.2",
+    "@11ty/eleventy": "^0.8.3",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "luxon": "^1.12.1",
     "markdown-it": "^8.4.2",
